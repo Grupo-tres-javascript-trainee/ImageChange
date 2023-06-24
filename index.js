@@ -10,7 +10,6 @@ app.use(express.urlencoded({ extended: true }));
 
 app.get("/", (req, res) =>{
   try {
-   // disco/carpeta/
     fs.readFile('index.html', 'utf8', (err, htmlData) => {
       fs.readFile('style.css', 'utf8', (err, cssData) => {
         
