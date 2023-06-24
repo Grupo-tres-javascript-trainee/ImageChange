@@ -1,9 +1,5 @@
 #  📸  Image Change / Cambiar imagen
-**  📚Table of Contents**
 
-[TOCM]
-
-[TOC]
 ### 📝 Description / Descripcion
 A simple application that through a URL resizes an image to 350 pixels, changes to grayscale and saves the image in the directory asynchronously
 
